@@ -1,0 +1,4 @@
+*.log
+
+# Notepad++ backups #
+*.bak
